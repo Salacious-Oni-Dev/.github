@@ -38,6 +38,7 @@ pressure, gas dissolved in liquids, and phase change that costs and releases rea
 | [oni-flagship-mods](https://github.com/Salacious-Oni-Dev/oni-flagship-mods) | Mod 1, Physical Thermodynamics + Fluid Dynamics, and Mod 2, Matter / Environmental Physics |
 | [oni-sim-visualizer](https://github.com/Salacious-Oni-Dev/oni-sim-visualizer) | a standalone viewer for the simulation's state, from a recording or a running game |
 | [oni-dev-environment](https://github.com/Salacious-Oni-Dev/oni-dev-environment) | a debuggable development copy of the game, with its own data and the game's debug tools working again |
+| [oni-sim-vanilla](https://github.com/Salacious-Oni-Dev/oni-sim-vanilla) | a plain `SimDLL.dll` that behaves like the game's own, with no extensions and every part documented; frozen, and not used by the SDK |
 
 ## Replacing a game file
 
