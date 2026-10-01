@@ -1,5 +1,11 @@
 # Oxygen Not Included simulation SDK
 
+> [!WARNING]
+> **Early alpha release (`v0.1.0-alpha.1`).** This is the first public release: expect bugs,
+> missing features and changes between releases, including to the API. It replaces one game file,
+> supports one game build (744825), and runs on Windows only. Keep backups of saves you care
+> about, and report problems in the issues of the repository they concern.
+
 An open replacement for Oxygen Not Included's native simulation library, a managed API that
 lets mods use what it adds, and gameplay mods built on that API as working examples. Heat that
 is moved instead of deleted, rooms whose air is a real mixture of gases, pipes with real
@@ -11,9 +17,6 @@ pressure, gas dissolved in liquids, and phase change that costs and releases rea
 <a href="https://github.com/Salacious-Oni-Dev/oni-flagship-mods#showcase-videos"><img src="https://github.com/Salacious-Oni-Dev/oni-flagship-mods/raw/main/media/bubblephysics.gif" width="24%" alt="Bubbles rising through water"></a>
 <a href="https://github.com/Salacious-Oni-Dev/oni-sim-visualizer#showcase-videos"><img src="https://github.com/Salacious-Oni-Dev/oni-sim-visualizer/raw/main/media/simviz-interactive.gif" width="24%" alt="The simulation visualizer"></a>
 </p>
-
-**Status: alpha.** The first release is `v0.1.0-alpha.1`. Interfaces can still change between
-releases. **Windows only:** the simulation library is a Windows DLL.
 
 ## Where to start
 
