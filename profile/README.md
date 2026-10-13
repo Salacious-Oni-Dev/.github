@@ -36,7 +36,7 @@ Each link opens that repository's releases, newest first:
 
 Browse the project online: the [Project Navigator](https://salacious-oni-dev.github.io/oni-sdk-docs/navigator/navigator.html) lists every simulation system, the machines whose recipes hide physics, and which elements exist.
 
-[![The Project Navigator's periodic table: which of the 118 elements the game has, and which are added or planned](https://raw.githubusercontent.com/Salacious-Oni-Dev/.github/main/profile/navigator-periodic-table.png)](https://salacious-oni-dev.github.io/oni-sdk-docs/navigator/navigator.html)
+[![The Project Navigator's periodic table: which of the 118 elements the game has, and which are added or planned](https://raw.githubusercontent.com/Salacious-Oni-Dev/.github/main/profile/navigator-periodic-table-dark.png)](https://salacious-oni-dev.github.io/oni-sdk-docs/navigator/navigator.html)
 
 ## Alpha 2 (current release)
 
