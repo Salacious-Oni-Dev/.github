@@ -34,6 +34,8 @@ Each link opens that repository's releases, newest first:
 - [oni-sim-vanilla releases](https://github.com/Salacious-Oni-Dev/oni-sim-vanilla/releases): the plain vanilla-behaving `SimDLL.dll`
 - [oni-dev-environment releases](https://github.com/Salacious-Oni-Dev/oni-dev-environment/releases): the development copy of the game (unchanged since `v0.1.0-alpha.1`)
 
+Browse the project online: the [Project Navigator](https://salacious-oni-dev.github.io/oni-sdk-docs/navigator/navigator.html) lists every simulation system, the machines whose recipes hide physics, and which elements exist.
+
 ## Alpha 2 (current release)
 
 Alpha 2 (`v0.1.0-alpha.2`) adds liquid depth pressure, several diseases per cell, an odour field,
